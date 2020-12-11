@@ -20,7 +20,7 @@ Olá. Eu sou Cláudio Henrique, um desenvolvedor Fullstack 🚀 do Brasil, Atual
 - 👨🏽‍💻 Eu atualmente trabalho e estudo :wink:;
 - 🌱 Atualmente dando uma olhada no mundo do React e Spring; 
 
-**Languages and Tools:**  
+**Linguagens e ferramentas:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -29,7 +29,7 @@ Olá. Eu sou Cláudio Henrique, um desenvolvedor Fullstack 🚀 do Brasil, Atual
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 
 
-
+<br /><br /><br /><br />
 
 📈 My GitHub Stats
 
