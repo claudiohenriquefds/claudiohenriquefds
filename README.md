@@ -12,9 +12,8 @@
 </a>
 
 <br />
-
-
-
+<br />
+<br />
 
 Olá. Eu sou Cláudio Henrique, um desenvolvedor Fullstack 🚀 do Brasil, Atualmente sou desenvolvedor PHP na Foco Multimidia e Freelancer como desenvolvedor PHP.🙍🏽‍♂️ [Foco Multimidia](https://focomultimidia.com/) e estou me graduando em Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia Baiano, Campus Guanambi.
 
@@ -34,7 +33,7 @@ Olá. Eu sou Cláudio Henrique, um desenvolvedor Fullstack 🚀 do Brasil, Atual
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 
 
-<br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br />
 
 📈 My GitHub Stats
 
