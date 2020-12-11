@@ -41,7 +41,7 @@ Olá. Eu sou Cláudio Henrique, um desenvolvedor Fullstack 🚀 do Brasil, Atual
 - [x] Laravel
 - [x] Python
 
-<br /><br /><br /><br /><br /><br /><br /><br />
+------
 
 📈 My GitHub Stats
 
