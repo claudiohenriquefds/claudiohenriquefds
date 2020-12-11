@@ -43,7 +43,5 @@ Olá. Eu sou Cláudio Henrique, um desenvolvedor Fullstack 🚀 do Brasil, Atual
 
 ------
 
-📈 My GitHub Stats
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=claudiohenriquefds&show_icons=true&theme=gotham" alt="claudiohenriquefds" />
 
