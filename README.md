@@ -32,6 +32,13 @@ Olá. Eu sou Cláudio Henrique, um desenvolvedor Fullstack 🚀 do Brasil, Atual
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 
+- [ ] Java
+- [x] React
+- [x] Javascript
+- [x] PHP
+- [x] Laravel
+- [ ] Spring
+- [x] Python
 
 <br /><br /><br /><br /><br /><br /><br /><br />
 
