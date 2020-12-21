@@ -42,6 +42,6 @@ Olá. Eu sou Cláudio Henrique, um desenvolvedor Fullstack 🚀 do Brasil, Atual
 - [x] Python
 
 ------
-<img align="left" width="42.5%" src="https://github-readme-stats.vercel.app/api/top-langs/username=claudiohenriquefds&layout=compact&title_color=01E292&text_color=fff&bg_color=0D1117">
+<img align="left" width="42.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiohenriquefds&layout=compact&title_color=01E292&text_color=fff&bg_color=0D1117">
 <img src="https://github-readme-stats.vercel.app/api?username=claudiohenriquefds&show_icons=true&theme=gotham" alt="claudiohenriquefds" />
 
