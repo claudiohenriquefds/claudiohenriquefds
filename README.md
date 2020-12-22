@@ -17,7 +17,7 @@
 
 Olá. Eu sou Cláudio Henrique, um desenvolvedor Fullstack 🚀 do Brasil, Atualmente sou desenvolvedor PHP na [Foco Multimidia](https://focomultimidia.com/) e Freelancer como desenvolvedor PHP🙍🏽‍♂️.Estou me graduando em Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia Baiano, Campus Guanambi.
 
-  <img align="right" alt="GIF" src="https://github.com/claudiohenriquefds/claudiohenriquefds/blob/main/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/claudiohenriquefds/claudiohenriquefds/blob/main/developer-dribbble.gif?raw=true" width="500" height="320" />
   
 **Falando sobre minha vida pessoal:**
 
