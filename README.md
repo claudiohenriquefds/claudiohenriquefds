@@ -28,6 +28,10 @@ Sou Cláudio Henrique, um desenvolvedor web do Brasil.
 - 🌱 Atualmente dando uma olhada no mundo do React e Spring Boot;
 
 ---
+
+<br />
+<br />
+
 **Linguagens e ferramentas:**  
 ---
 
