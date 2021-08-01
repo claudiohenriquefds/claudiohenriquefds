@@ -21,6 +21,7 @@ Sou Cláudio Henrique, um desenvolvedor web do Brasil.
  
 --- 
 **Minha vida pessoal:**
+---
 
 - :mortar_board: Graduando em Análise e Desenvolvimento de Sistemas no [Instituto Federal de Educação, Ciência e Tecnologia Baiano](https://ifbaiano.edu.br/portal/ads-guanambi/);
 - 👨🏽‍💻 Desenvolvedor PHP na [Foco Multimidia](https://focomultimidia.com/);
@@ -28,6 +29,7 @@ Sou Cláudio Henrique, um desenvolvedor web do Brasil.
 
 ---
 **Linguagens e ferramentas:**  
+---
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
