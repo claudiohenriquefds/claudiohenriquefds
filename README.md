@@ -15,31 +15,28 @@
 <br />
 <br />
 
-Olá. Eu sou Cláudio Henrique, um desenvolvedor Fullstack 🚀 do Brasil, Atualmente sou desenvolvedor PHP na [Foco Multimidia](https://focomultimidia.com/) e Freelancer como desenvolvedor PHP🙍🏽‍♂️.Estou me graduando em Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia Baiano, Campus Guanambi.
+Sou Cláudio Henrique, um desenvolvedor web do Brasil.
 
   <img align="right" alt="GIF" src="https://github.com/claudiohenriquefds/claudiohenriquefds/blob/main/developer-dribbble.gif?raw=true" width="500" height="320" />
-  
-**Falando sobre minha vida pessoal:**
+ 
+--- 
+**Minha vida pessoal:**
 
-- 👨🏽‍💻 Eu atualmente trabalho e estudo :wink:;
-- 🌱 Atualmente dando uma olhada no mundo do React e Spring; 
+- :mortar_board: Graduando em Análise e Desenvolvimento de Sistemas no [Instituto Federal de Educação, Ciência e Tecnologia Baiano](https://ifbaiano.edu.br/portal/ads-guanambi/);
+- 👨🏽‍💻 Desenvolvedor PHP na [Foco Multimidia](https://focomultimidia.com/);
+- 🌱 Atualmente dando uma olhada no mundo do React e Spring Boot;
 
+---
 **Linguagens e ferramentas:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-
-- [ ] Java
-- [x] React
-- [x] Javascript
-- [x] PHP
-- [x] Laravel
-- [x] Python
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 ------
 <p align="center">
