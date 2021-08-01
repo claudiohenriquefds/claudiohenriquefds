@@ -20,6 +20,10 @@ Sou Cláudio Henrique, um desenvolvedor web do Brasil.
   <img align="right" alt="GIF" src="https://github.com/claudiohenriquefds/claudiohenriquefds/blob/main/developer-dribbble.gif?raw=true" width="500" height="320" />
  
 --- 
+
+<br />
+<br />
+
 **Minha vida pessoal:**
 ---
 
