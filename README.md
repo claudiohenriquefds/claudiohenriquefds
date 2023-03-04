@@ -7,7 +7,7 @@
 <h2 align="left">About me.</h2>
 
 - :mortar_board: Graduated in systems analysis and development from the [Federal Institute of Education, Science and Technology of Bahia]](https://ifbaiano.edu.br/portal/ads-guanambi/);
-- 👨🏽‍💻 Backend developer at [Foco Multimidia](https://focomultimidia.com/);
+- 👨🏽‍💻 Web and Mobile developer at [Foco Multimidia](https://focomultimidia.com/);
 - 🌱 Absorbing new knowledge from the world of Javascript;
 
 <h2 align="left">Connect with me</h2>
